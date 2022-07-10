@@ -13,7 +13,6 @@ function App() {
           display: "flex",
           flexWrap: "wrap",
           justifyContent: "space-between",
-          // padding: "20px",
         }}
       >
         <div>
