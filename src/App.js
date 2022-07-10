@@ -5,7 +5,7 @@ import Stepper from "react-stepper-horizontal";
 import { StepperNav } from "vertical-stepper-nav";
 function App() {
   return (
-    <div>
+    <div style={{ paddingBottom: "80px" }}>
       <div
         style={{
           width: "95%",
